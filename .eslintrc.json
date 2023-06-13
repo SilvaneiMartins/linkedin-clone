@@ -1,0 +1,12 @@
+{
+    "extends": [
+        "@rocketseat/eslint-config/react"
+    ],
+    "rules": {
+        "camelcase": "off",
+        "spaced-comment": "off",
+        "no-unused-vars": "off",
+        "prettier/prettier": "off",
+        "no-useless-constructor": "off"
+    }
+}
